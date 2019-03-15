@@ -50,3 +50,12 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# music
+*.wav
+*.mp3
+
+# pictures
+*.jpeg
+*.jpg
+*.png
